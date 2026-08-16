@@ -75,7 +75,7 @@ Created interactive dashboards containing:
 
 ### Executive Dashboard
 
-![Executive Dashboard](D:\Pharmaceutical sales and Precription Analysis\Image\Dashboard1.png)
+![Executive Dashboard](Image\Dashboard1.png)
 
 ### Revenue Dashboard
 
