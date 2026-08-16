@@ -88,6 +88,10 @@ Created interactive dashboards containing:
 
 ![Geographic Dashboard](Image/Geographic%20Dashboard.png)
 
+### Product Proformance Dashboard
+
+![ Product Proformance Dashboard](Image/Dashboard2c%20Dashboard.png)
+
 ## 📁 Repository Structure
 
 ```text
