@@ -90,7 +90,7 @@ Created interactive dashboards containing:
 
 ### Product Proformance Dashboard
 
-![ Dashboard2](Image/Dashboard2c%20Dashboard.png)
+![Product Performance Dashboard](Image/Dashboard2.png)
 
 ## 📁 Repository Structure
 
