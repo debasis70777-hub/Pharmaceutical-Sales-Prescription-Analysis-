@@ -75,19 +75,18 @@ Created interactive dashboards containing:
 
 ### Executive Dashboard
 
-![Executive Dashboard](Image/Executive Dashboard.png)
+![Executive Dashboard](Image/Executive%20Dashboard.png)
 
 ### Revenue Dashboard
 
-![Revenue Dashboard](Image/Revenue Dashboard.png)
+![Revenue Dashboard](Image/Revenue%20Dashboard.png)
 
 ### Prescription Dashboard
 
-![Prescription Dashboard](Image/Prescription Dashboard.png)
-
+![Prescription Dashboard](Image/Prescription%20Dashboard.png)
 ### Geographic Dashboard
 
-![Geographic Dashboard](Image/Geographic Dashboard.png)
+![Geographic Dashboard](Image/Geographic%20Dashboard.png)
 
 ## 📁 Repository Structure
 
